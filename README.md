@@ -651,3 +651,4 @@ Wrong. The reason why arrays have this behavior would take us deep inside the Ja
 [Basics]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-data-structures-objects-readme'>Objects</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Objects</p>
