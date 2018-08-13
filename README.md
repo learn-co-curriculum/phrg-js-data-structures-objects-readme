@@ -638,6 +638,10 @@ Wrong. The reason why arrays have this behavior would take us deep inside the Ja
 - **Be wary of setting object-style properties on an array**. There's rarely any reason to, and it's usually more trouble than it's worth.
 - **Remember that all object keys, including array indexes, are strings**. This will really come into play when we learn how to iterate over objects, so keep it in the back of your mind.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-data-structures-objects-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-data-structures-objects-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - MDN
   + [`Object.assign()`][assign]
